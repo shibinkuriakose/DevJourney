@@ -1,0 +1,48 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# Log Files
+*.log
+logs/
+
+# Build and Binary Files
+bin/
+obj/
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Package Files
+*.zip
+*.tar.gz
+*.rar
+
+# Environment Files
+.env
+.env.local
+*.env.local
+
+# Personal Notes (but keep .md files)
+*.txt
+!README.txt
+private-notes/
+
+# Cache and History
+.history/
+.cache/ 
